@@ -23,3 +23,5 @@
   * Save Settings
 * Download my modified version of [RemoteHWInfo](https://github.com/ccoane/remotehwinfo/releases)
   * Update the sensors.txt file as noted in the **Setup** section of the [Readme](https://github.com/ccoane/remotehwinfo/blob/master/README.md)
+* Connect the TTGO T-Display and Upload the sketch.
+* Start RemoteHWInfo
