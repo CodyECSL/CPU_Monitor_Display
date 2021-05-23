@@ -9,7 +9,7 @@
 * 3D Printed Case for the TTGO TDisplay
   * I modified [this model](https://www.thingiverse.com/thing:4501444) and filled in the face buttons
 
-## Software:
+## Setup:
 * Install Visual Studio Code (VS Code)
 * Install the PlatformIO Extension in VS Code
 * Install [HWInfo v6.4.2](https://www.fosshub.com/HWiNFO-old.html?dwl=hwi_642.exe)
@@ -21,3 +21,5 @@
   * Comment out "#include <User_Setup.h>"
   * Uncomment "#include <User_Setups/Setup25_TTGO_T_Display.h>"
   * Save Settings
+* Download my modified version of [RemoteHWInfo](https://github.com/ccoane/remotehwinfo/releases)
+  * Update the sensors.txt file as needed
