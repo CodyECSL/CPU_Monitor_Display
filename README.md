@@ -16,7 +16,7 @@
 * Download and install the [CP210x USB to UART Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 * Open the project in VS Code and Build the project.
 * Navigate to the TFT_eSPI Library folder in your Project directory
-  * Example: \CPU_Monitor_Display\.pio\libdeps\esp32dev\TFT_eSPI
+  * Example: \CPU_Monitor_Display\\.pio\libdeps\esp32dev\TFT_eSPI
 * Make the following changes to the User_Setup_Select.h file:
   * Comment out "#include <User_Setup.h>"
   * Uncomment "#include <User_Setups/Setup25_TTGO_T_Display.h>"
