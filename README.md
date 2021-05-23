@@ -22,4 +22,4 @@
   * Uncomment "#include <User_Setups/Setup25_TTGO_T_Display.h>"
   * Save Settings
 * Download my modified version of [RemoteHWInfo](https://github.com/ccoane/remotehwinfo/releases)
-  * Update the sensors.txt file as needed
+  * Update the sensors.txt file as noted in the **Setup** section of that repo
