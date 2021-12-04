@@ -4,7 +4,7 @@
 
 ## Hardware:
 * TTGO TDisplay (Arduino-based Microcontroller)
-  * [Example Link](https://www.aliexpress.com/item/4000059428373.html?spm=a2g0s.9042311.0.0.493c4c4dIXBpsw)
+  * [Example Link](https://www.aliexpress.com/item/33048962331.html)
 * USB C cable
 * 3D Printed Case for the TTGO TDisplay
   * I modified [this model](https://www.thingiverse.com/thing:4501444) and filled in the face buttons
